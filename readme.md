@@ -11,9 +11,8 @@
 
 A personal backend engineering project: a cloud-native **Patient Management System** built with a microservices architecture on Spring Boot / Spring Cloud. I designed and implemented this system to practice and demonstrate production-grade backend patterns — centralized API Gateway routing, JWT-based authentication, synchronous inter-service communication via **gRPC**, asynchronous event streaming via **Apache Kafka**, and Infrastructure-as-Code deployment to AWS using the **AWS CDK**.
 
-**Author:** Phạm Trung — Java Backend Developer  
-📧 your-email@example.com · 🔗 [GitHub](https://github.com/your-username) · 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-
+**Author:** Phạm Trung Thiện — Java Backend Developer  
+📧 phamtrungthien10052003@gmail.com · 🔗 [GitHub](https://github.com/TrungThien2003) 
 ---
 
 ## 📖 Table of Contents
